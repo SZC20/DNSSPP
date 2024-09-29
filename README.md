@@ -1,2 +1,2 @@
-# Nonstationary-Sparse-Spectral-Permanental-Process
-NeurIPS 2024
+# DNSSPP
+NeurIPS 2024 Nonstationary Sparse Spectral Permanental Process
